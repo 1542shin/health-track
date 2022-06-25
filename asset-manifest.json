@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/health-track/static/css/main.0888cd6f.css",
+    "main.js": "/health-track/static/js/main.c5773e1c.js",
+    "static/media/gymIcon.png": "/health-track/static/media/gymIcon.bbfa949a6c9dbe1cdac7.png",
+    "index.html": "/health-track/index.html",
+    "main.c5773e1c.js.map": "/health-track/static/js/main.c5773e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0888cd6f.css",
+    "static/js/main.c5773e1c.js"
+  ]
+}
