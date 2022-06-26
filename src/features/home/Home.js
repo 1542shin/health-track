@@ -9,7 +9,7 @@ export const Home=()=>{
     return(
              <Grid container spacing={3}>
               <Grid item xs={12} md={8} lg={8}>
-                <Paper
+                <Paper data-aos="zoom-in" data-aos-duration="1000"
                   sx={{
                     p:3,
                     display:'flex',
@@ -23,7 +23,7 @@ export const Home=()=>{
               </Grid>
               {/* MyStatus  */}
               <Grid item xs={12} md={4} lg={4}>
-                <Paper
+                <Paper data-aos="zoom-in" data-aos-duration="1500"
                   sx={{
                     p: 2,
                     display: "flex",
@@ -37,7 +37,8 @@ export const Home=()=>{
               </Grid>
               {/* Weight Table*/}
               <Grid item xs={12}>
-                <Paper sx={{ p: 2, display: "flex", flexDirection: "column" }}>
+                <Paper sx={{ p: 2, display: "flex", flexDirection: "column" }}
+                data-aos="zoom-in" data-aos-duration="2000">
                   <WeightTable />
                 </Paper>
               </Grid>

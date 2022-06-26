@@ -1,8 +1,8 @@
 # Health Track
 
-Health Track is web front-end project.
-You can add weight input and it shows the data in graph and table form.
-You can also set your height and goal weight and calculate your BMI.
+Health Track is web front-end project with React/Redux library.
+It shows your weight data in a graph and table format.
+You can also set your height to calculate your BMI.
 
 ## Live Demo
 

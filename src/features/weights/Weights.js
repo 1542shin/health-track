@@ -8,7 +8,7 @@ import WeightTable from "./WeightTable";
 export function Weights() {
   return (
    <React.Fragment>
-        <Paper
+        <Paper  data-aos="zoom-in" data-aos-duration="1000"
           sx={{
             p: 3,
             
@@ -19,7 +19,7 @@ export function Weights() {
         >
           <WeightChart />
         </Paper>
-        <Paper sx={{ p: 2, display: "flex", mt:3,flexDirection: "column" }}>
+        <Paper sx={{ p: 2, display: "flex", mt:3,flexDirection: "column" }}  data-aos="zoom-in" data-aos-duration="1500">
         <WeightTable />
       </Paper>
       </React.Fragment>
