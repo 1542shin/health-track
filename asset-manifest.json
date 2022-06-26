@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/health-track/static/css/main.0888cd6f.css",
-    "main.js": "/health-track/static/js/main.c5773e1c.js",
+    "main.css": "/health-track/static/css/main.1120fbe3.css",
+    "main.js": "/health-track/static/js/main.5d56b884.js",
     "static/media/gymIcon.png": "/health-track/static/media/gymIcon.bbfa949a6c9dbe1cdac7.png",
     "index.html": "/health-track/index.html",
-    "main.c5773e1c.js.map": "/health-track/static/js/main.c5773e1c.js.map"
+    "main.1120fbe3.css.map": "/health-track/static/css/main.1120fbe3.css.map",
+    "main.5d56b884.js.map": "/health-track/static/js/main.5d56b884.js.map"
   },
   "entrypoints": [
-    "static/css/main.0888cd6f.css",
-    "static/js/main.c5773e1c.js"
+    "static/css/main.1120fbe3.css",
+    "static/js/main.5d56b884.js"
   ]
 }
