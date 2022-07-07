@@ -9,8 +9,6 @@ import { Home } from "./features/home/Home";
 import { CssBaseline } from "@mui/material";
 import "./App.css";
 import { Weights } from "./features/weights/Weights";
-import AOS from "aos";
-import "aos/dist/aos.css";
 
 const theme = createTheme({
   palette: {
@@ -27,7 +25,6 @@ const theme = createTheme({
 });
 
 function App() {
-  AOS.init();
 
   return (
     <BrowserRouter>
