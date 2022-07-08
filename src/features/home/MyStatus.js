@@ -23,7 +23,6 @@ export default function MyStatus() {
           gutterBottom
           sx={{ flex: "auto" }}
         >
-
           My Status
         </Typography>
         <EditStatusForm />

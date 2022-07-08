@@ -30,7 +30,7 @@ export function WeightInput({ weight, setWeight }) {
     />
   );
 }
-//new Date('December 17, 1995 03:24:00')
+
 const dateFormat = (date) => {
   return (
     `${date.getMonth() + 1}` + "/" + date.getDate() + "/" + date.getFullYear()

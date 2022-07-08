@@ -38,10 +38,10 @@ export const SideBar = () => {
             key="Dashboard"
           >
             <ListItemIcon>
-              <HomeOutlinedIcon sx={{ color: "" }} />
+              <HomeOutlinedIcon/>
             </ListItemIcon>
             <ListItemText primary="Dashboard" />
-          </ListItem>{" "}
+          </ListItem>
           <Divider variant="middle" color="#EDE6F6" />
           <ListItem
             className="menu"
