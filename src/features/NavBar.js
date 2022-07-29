@@ -34,7 +34,7 @@ export const NavBar = () => {
                 alt='linkedIn icon'
               />
             </a>{" "}
-            <a id="mail" href='mailto:1142shin@gmail.com'>
+            <a id="mail" href='mailto:1542shin@gmail.com'>
               <img
                 style={{ width: 35, margin: 5 }}
                 src={mail}
