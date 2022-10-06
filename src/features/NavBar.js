@@ -27,7 +27,7 @@ export const NavBar = () => {
                 alt='github icon'
               />
             </a>{" "}
-            <a id="linkedin" href='https://www.linkedin.com/in/%E2%9D%84%EF%B8%8Faahan-s-198950246' target="_blank"  rel="noreferrer">
+            <a id="linkedin" href='https://www.linkedin.com/in/aahans' target="_blank"  rel="noreferrer">
               <img
                 style={{ width: 28, margin: 3 }}
                 src={linkedin}
